@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b8d6f439-09ba-4bc2-a08f-529c6b35edf2/resourceGroups/General/providers/Microsoft.Web/sites/RedisCacheAccessor",
+    "appService.deploySubpath": "Dgmjr.GetOrSetFromRedisCache/bin/Local/net7.0"
+}
