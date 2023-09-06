@@ -13,7 +13,7 @@
 <Project Sdk="Microsoft.Build.Traversal">
     <Sdk Name="MetapackageSdk" />
     <ItemGroup>
-        <ProjectReference Include="..\Dgmjr.CacheAccessor/Dgmjr.CacheAccesspr.csproj" />
-        <ProjectReference Include="..\InsultGenerator/InsultGenerator.csproj" />
+        <ProjectReference Include="./CacheAccessor/Dgmjr.CacheAccessor.csproj" />
+        <ProjectReference Include="./InsultGenerator/InsultGenerator.csproj" />
     </ItemGroup>
 </Project>
