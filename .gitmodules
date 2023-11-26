@@ -4,3 +4,9 @@
 [submodule "CacheAccessor"]
 	path = CacheAccessor
 	url = https://github.com/dgmjr-io/CacheAccessor.git
+[submodule "ADB2C"]
+	path = ADB2C
+	url = https://github.com/dgmjr-io/DGMJR-ADB2C.git
+[submodule "FfmpegDownloadBot"]
+	path = FfmpegDownloadBot
+	url = https://github.com/dgmjr-io/FFMpegDownloadBot.git

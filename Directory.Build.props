@@ -1,0 +1,12 @@
+<Project>
+  <Import Project="Sdk.props" Sdk="DgmjrSdk" />
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <AssemblyName>entrypoint.dll</AssemblyName>
+    <OutputType>Exe</OutputType>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <IsNuGetized>false</IsNuGetized>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+    <BuildFromSource>true</BuildFromSource>
+  </PropertyGroup>
+</Project>
